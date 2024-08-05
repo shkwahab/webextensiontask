@@ -1,10 +1,10 @@
 import React from 'react'
-import Popup from './Popup'
+import Home from './components/Home'
 
 const App = () => {
   return (
     <React.Fragment>
-      <Popup/>
+      <Home/>
     </React.Fragment>
   )
 }
